@@ -1,0 +1,28 @@
+.body {
+	background-color: #555;
+	color: #fff;
+}
+
+.test1 {
+	font-family: Trattatello, fantasy;
+	font-size: 25px;
+	background-color: lightyellow;
+	bottom: 24px;
+	}
+.test1 p {
+	text-align: center;
+}	
+
+.test2 {
+	background-color: lightyellow;
+	text-align: center;
+}
+
+.test3 {
+	background-color: lightyellow;
+	text-align: center;
+}
+
+a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
